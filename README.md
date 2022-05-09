@@ -1,5 +1,8 @@
 # Homework 6 for History of Data Science, Spring 2022 @ UC San Diego
 
+Homework 6 for History of Data Science, Spring 2022 @ UC San Diego
+
+Miguel del Valle - mdelvalle@ucsd.edu
 
 #Question 1 
 <iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe>
